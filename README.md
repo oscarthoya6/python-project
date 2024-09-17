@@ -28,7 +28,8 @@ At this point, the student would have the option to continue enrolling in the fr
 
 **Technology:**  `Python Notebook`
 
-CUSTOMER-SEGMENTATION
+**CUSTOMER-SEGMENTATION**
+
 KMeans is a popular clustering algorithm used for partitioning data into distinct groups, called clusters, based on their similarity. How it works: Initialization,Assignment,Update and Repeat.
 
 For this project will work with the following: CustomerID : Unique identifier for each customer. Gender Age of the customer. Annual Income (k$) Spending Score (1-100)
