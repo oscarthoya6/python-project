@@ -1,7 +1,7 @@
 # python-project
 # Data-Analysis-Python-Projects
 ## 2.1 Student Mental Analysis[EDA + ML]
-**Code:** [Student Mental Analysis[EDA + ML]](https://github.com/oscarthoya6/Data-Analysis-Python-Projects/blob/main/student-mental-analysis-eda-ml.ipynb)
+
 
 **How do  factors, such as CGPA , Course, Year of Study and Age together with other academic factors influence mental health outcomes of collage students?**
 
